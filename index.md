@@ -2,38 +2,49 @@
 layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
+title: Welcome
 ---
 
-{% include gh_variables.html %}
+## Motivation:
 
-For guidelines on how to develop curriculum content, please visit [The Carpentries Curriculum Development Handbook](https://carpentries.github.io/curriculum-development/).
+> [The research office] has recommended I get in touch with you in relation to setting up [a university approved tool] for my research data, something that's a requirement of ethics clearance for projects at [the university] now. I'm not sure if there is some generic training I can get on this or if you have further advice around it?
 
-This lesson shows how to use [The Carpentries]({{ site.carpentries_site}})
-lesson template. The materials below assume familiarity with tools such as GitHub, Markdown, and Jekyll. For more guidance, please visit the [Technological introductions](https://carpentries.github.io/curriculum-development/technological-introductions.html) section of The Carpentries Curriculum Development Handbook.
-   
-For guidelines on how to help improve our lessons and this template,
-please see [the contribution guidelines][contributing];
-for guidelines on how to set up your machine to preview changes locally,
-please see [the setup instructions]({{ page.root }}{% link setup.md %}).
+-- A researcher at one of the authors' institutions.
 
-> ## Prerequisites
+
+## Active Data Management on the Cloud
+
+Researchers in [Australia](https://cloudstor.aarnet.edu.au/plus/index.php), [CERN](http://cernbox.web.cern.ch/), and around the world have access to local open source [owncloud](https://owncloud.org) research storage clouds. 
+
+They are told to manage their active research data, and expected to get on with it. This workshop aims to bridge that gap, slightly.
+
+
+## Who is this workshop for?
+
+This workshop is suitable for anyone needing to manage research data for internal teams or with external collaborators.
+
+## What does it include?
+
+FIXME 
+
+# Prerequisites
+
+> ## Tools you need
 >
-> Use the `.prereq` style to specify prerequisites.
+> * A laptop able to connect to the internet.
+> * Download TODO data file
+> * The ability to access [cloudstor](https://cloudstor.aarnet.edu.au/plus/index.php), or your local owncloud instance.
 {: .prereq}
 
-> ## Ten Things You Need To Know
+# Objectives
+
+> ## Lesson Learning Objectives
 >
-> 0.  Don't panic.
-> 1.  Create a new lesson by using GitHub Import, *not* by forking.
-> 2.  Run `bin/lesson_initialize.py` *once* in a new lesson repository to set up standard files.
-> 3.  Run `make lesson-check` to check that the lesson is formatted correctly.
-> 4.  Put lesson episodes in `_episodes` (or `_episodes_rmd` if you are writing in RMarkdown).
-> 5.  Run `make serve` to preview the lesson website locally.
-> 6.  Do *not* commit the generated HTML files in the `_site` directory.
-> 7.  Style blocks and code samples by putting `{: .stylename}` on a newline *after* the block or code.
-> 8.  Put solutions inside challenges using nested blockquotes.
-> 9.  File issues and template fixes in the [styles repository][styles],
->     and enhancements to this documentation in this one.
-{: .checklist}
+> 1. Participants realise that the platform they choose to store data on matters. For security, ethics, and reliability.
+> 1. Participants can use Cloudstor to safely, securely, and reliably, store their active research data.
+> 1. Participants can use the platform to save, share, version, and send, data.
+> 1. Participants know when and how to use each mechanism for moving data.
+> 1. Participants know how to migrate data from one platform to another.
+{: .objectives}
 
 {% include links.md %}
