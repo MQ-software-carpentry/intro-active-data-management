@@ -12,6 +12,8 @@ keypoints:
 ---
 FIXME
 
+
+
 # Acknowledgement of country
 
 # Code of Conduct
@@ -25,10 +27,10 @@ FIXME
 
 # Shared editable document
 
-> ## Ice-breaker: 
-> 
+> ## Ice-breaker:
+>
 > 1. Get to know your fellow participants (either in one group or breakout rooms)
->    1. "What... is your name?" 
+>    1. "What... is your name?"
 >    1. "What... is your quest?"
 >    1. You need to figure out the third question. Options include: Favourite colour, airspeed of an unladen swallow, most recent research paper they found interesting?
 > 1. Give us a two sentence summary of one of your fellow participants that you met during the icebreaker in the etherpad.
@@ -47,18 +49,19 @@ FIXME
  * How to think about research data
     * communicate with influence the value of active data management best practice
     * understanding the requirement for data management
- * Challenge, think pair share. 
-    * 15 minutes breakout rooms (5 watch, 10 pair) 10 minutes sharing
-    * https://www.youtube.com/watch?v=N2zK3sAtr-4
-    * Breakout rooms. Watch the video: have you run into any of these scenarios? What happened? How should this have gone? Write your room's conclusions in the etherpad
+
+> ## Challenge
+> 1. 15 minutes breakout rooms (5 watch, 10 pair) 10 minutes sharing
+>    1. Breakout rooms. Watch the video: https://www.youtube.com/watch?v=N2zK3sAtr-4
+>    1.  Discussion: Have you run into any of these scenarios? What happened? How should this have gone? Write your room's conclusions in the etherpad.
 
 ## File manipulation:
 * Sensitive data:
     * knowing how to use sensitive data - storing
     * knowing how to use sensitive data - sharing
 * Organisation:
-    * gathering data in one place, 
-    * creating file directories and naming conventions 
+    * gathering data in one place,
+    * creating file directories and naming conventions
     * knowing best practice for data management - manage, describe and store data files
 * Migration:
     * know how to retrieve data from multiple locations and store in sane way in one place
@@ -70,7 +73,12 @@ FIXME
     * sync/move data to the cloud, download
     * syncing data
     * use library data safely and securely (sharing, storing)
-    * using cloud storage proficiently including storing, sharing, sending and syncing 
+    * using cloud storage proficiently including storing, sharing, sending and syncing
+
+## Backups and recovery:
+    * know where to go in a data emergency - who to ask, what the various back up systems are
+    * knowing what to do in an emergency
+
 
 ## Collaboration:
 * Owncloud:
@@ -78,6 +86,11 @@ FIXME
     * creating a group drive
     * share data from the cloud
 * understanding group allocations in Cloudstor
+
+
+## FAIR / data publishing:
+    * how to write a read me
+    * sharing datasets on OSF - packaging data
 
 
 ## Paper of the future:
@@ -89,16 +102,7 @@ FIXME
     * online data analysis skills?
     * processing many files and processing large files (best practice for both)
 
-## FAIR / data publishing:
-    * how to write a read me
-    * sharing datasets on OSF - packaging data
-
-## Backups and recovery:
-    * know where to go in a data emergency - who to ask, what the various back up systems are
-    * knowing what to do in an emergency
-
 
 
 
 {% include links.md %}
-
