@@ -37,68 +37,68 @@ FIXME
 
 FIXME
 
-# Goals
-
-~~~
-RDM:
-	Expectations of a data management plan
-		capacity to answer HDR and ECR questions and turn needs into specific actions
-		clear understanding of research data management landscape
-	How to think about research data
-		communicate with influence the value of active data management best practice
-	understanding the requirement for data management
-
-File manipulation:
-	Sensitive data:
-		knowing how to use sensitive data - storing, sharing
-		managing sensitive data
-	Organisation:
-		gathering data in one place, 
-		creating file directories and naming conventions 
-		knowing best practice for data management - manage, describe and store data files
-	Migration:
-		know how to retrieve data from multiple locations and store in sane way in one place
-		moving data from equipment to laptop to cloud
-	Bulk:
-		bulk file movement
-		bulk upload of files
-	Working with active data:
-		sync/move data to the cloud, download
-		syncing data
-		use library data safely and securely (sharing, storing)
-		using cloud storage proficiently including storing, sharing, sending and syncing 
+# Outline
 
 
-Collaboration:
-	Owncloud:
-		collaborating with others in shared documents and folders
-		creating a group drive
-		share data from the cloud
-	understanding group allocations in Cloudstor
+## RDM:
+ * Expectations of a data management plan
+    * capacity to answer HDR and ECR questions and turn needs into specific actions
+    * clear understanding of research data management landscape
+ * How to think about research data
+    * communicate with influence the value of active data management best practice
+    * understanding the requirement for data management
+ * Challenge, think pair share. 
+    * 15 minutes breakout rooms (5 watch, 10 pair) 10 minutes sharing
+    * https://www.youtube.com/watch?v=N2zK3sAtr-4
+    * Breakout rooms. Watch the video: have you run into any of these scenarios? What happened? How should this have gone? Write your room's conclusions in the etherpad
+
+## File manipulation:
+* Sensitive data:
+    * knowing how to use sensitive data - storing
+    * knowing how to use sensitive data - sharing
+* Organisation:
+    * gathering data in one place, 
+    * creating file directories and naming conventions 
+    * knowing best practice for data management - manage, describe and store data files
+* Migration:
+    * know how to retrieve data from multiple locations and store in sane way in one place
+    * moving data from equipment to laptop to cloud
+* Bulk:
+    * bulk file movement
+    * bulk upload of files
+* Working with active data:
+    * sync/move data to the cloud, download
+    * syncing data
+    * use library data safely and securely (sharing, storing)
+    * using cloud storage proficiently including storing, sharing, sending and syncing 
+
+## Collaboration:
+* Owncloud:
+    * collaborating with others in shared documents and folders
+    * creating a group drive
+    * share data from the cloud
+* understanding group allocations in Cloudstor
 
 
-Paper of the future:
-	https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/
-	Jupyter notebooks skills (where to find and store, open, use basic code, save and share)
-	working knowledge of Cloudstor and associated services
+## Paper of the future:
+* https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/
+    * Jupyter notebooks skills (where to find and store, open, use basic code, save and share)
+    * working knowledge of Cloudstor and associated services
 
-Automation	
-	online data analysis skills?
-	processing many files and processing large files (best practice for both)
+## Automation  
+    * online data analysis skills?
+    * processing many files and processing large files (best practice for both)
 
-FAIR / data publishing:
-	how to write a read me
-	sharing datasets on OSF - packaging data
+## FAIR / data publishing:
+    * how to write a read me
+    * sharing datasets on OSF - packaging data
 
-Backups and recovery:
-	know where to go in a data emergency - who to ask, what the various back up systems are
-	knowing what to do in an emergency
+## Backups and recovery:
+    * know where to go in a data emergency - who to ask, what the various back up systems are
+    * knowing what to do in an emergency
 
 
-Out of scope:
-	ability to translate jargon to layman’s language
-	communicating with influence regarding the value of cloud-based systems and services 
-~~~
+
 
 {% include links.md %}
 
