@@ -32,77 +32,10 @@ FIXME
 > 1. Get to know your fellow participants (either in one group or breakout rooms)
 >    1. "What... is your name?"
 >    1. "What... is your quest?"
->    1. You need to figure out the third question. Options include: Favourite colour, airspeed of an unladen swallow, most recent research paper they found interesting?
+>    1. "What... is some jargon (about data) you find confusing?"
 > 1. Give us a two sentence summary of one of your fellow participants that you met during the icebreaker in the etherpad.
 {: .challenge}
 
-
-FIXME
-
-# Outline
-
-
-## RDM:
- * Expectations of a data management plan
-    * capacity to answer HDR and ECR questions and turn needs into specific actions
-    * clear understanding of research data management landscape
- * How to think about research data
-    * communicate with influence the value of active data management best practice
-    * understanding the requirement for data management
-
-> ## Challenge
-> 1. 15 minutes breakout rooms (5 watch, 10 pair) 10 minutes sharing
->    1. Breakout rooms. Watch the video: https://www.youtube.com/watch?v=N2zK3sAtr-4
->    1.  Discussion: Have you run into any of these scenarios? What happened? How should this have gone? Write your room's conclusions in the etherpad.
-
-## File manipulation:
-* Sensitive data:
-    * knowing how to use sensitive data - storing
-    * knowing how to use sensitive data - sharing
-* Organisation:
-    * gathering data in one place,
-    * creating file directories and naming conventions
-    * knowing best practice for data management - manage, describe and store data files
-* Migration:
-    * know how to retrieve data from multiple locations and store in sane way in one place
-    * moving data from equipment to laptop to cloud
-* Bulk:
-    * bulk file movement
-    * bulk upload of files
-* Working with active data:
-    * sync/move data to the cloud, download
-    * syncing data
-    * use library data safely and securely (sharing, storing)
-    * using cloud storage proficiently including storing, sharing, sending and syncing
-
-## Backups and recovery:
-    * know where to go in a data emergency - who to ask, what the various back up systems are
-    * knowing what to do in an emergency
-
-
-## Collaboration:
-* Owncloud:
-    * collaborating with others in shared documents and folders
-    * creating a group drive
-    * share data from the cloud
-* understanding group allocations in Cloudstor
-
-
-## FAIR / data publishing:
-    * how to write a read me
-    * sharing datasets on OSF - packaging data
-
-
-## Paper of the future:
-* https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/
-    * Jupyter notebooks skills (where to find and store, open, use basic code, save and share)
-    * working knowledge of Cloudstor and associated services
-
-## Automation  
-    * online data analysis skills?
-    * processing many files and processing large files (best practice for both)
-
-
-
+# Plan for the day
 
 {% include links.md %}
