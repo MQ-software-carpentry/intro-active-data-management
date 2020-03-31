@@ -36,33 +36,25 @@ FIXME
 > 1. Give us a two sentence summary of one of your fellow participants that you met during the icebreaker in the etherpad.
 {: .challenge}
 
+Think, pair, share
+> ## Jargon busting
+
+Direct activity
+> ## Use shared editable document to collate explanations
+
+Multiple Choice
+direct activity
+synthesis to achieve a goal
+
 
 FIXME
 
 
 
 
-## Collaboration:
-* Owncloud:
-    * collaborating with others in shared documents and folders
-    * creating a group drive
-    * share data from the cloud
-* understanding group allocations in Cloudstor
 
 
-## FAIR / data publishing:
-    * how to write a read me
-    * sharing datasets on OSF - packaging data
 
-
-## Paper of the future:
-* https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/
-    * Jupyter notebooks skills (where to find and store, open, use basic code, save and share)
-    * working knowledge of Cloudstor and associated services
-
-## Automation  
-    * online data analysis skills?
-    * processing many files and processing large files (best practice for both)
 
 
 
