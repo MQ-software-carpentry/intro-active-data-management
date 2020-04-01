@@ -60,21 +60,16 @@ Follow the instructions to install the client.
 
 ##### Configuring the ownCloud Desktop Sync Client
 
-Install and open the ownCloud Desktop Sync Client. You will be prompted for the server address, enter https://cloudstor.aarnet.edu.au/plus and click "Next"
+  1. Install and open the ownCloud Desktop Sync Client. You will be prompted for the server address, enter https://cloudstor.aarnet.edu.au/plus and click "Next"
+  2. Enter your institutional email address as your username and the sync password you created (not the password for your institutional login) and then click "Next".
+  3. Ensure "Sync Everything" is selected and then click "Connect..." and CloudStor will start synchronising your data.
+  4. Click on Cloudstor icon to expand the folders you have access to from the web client.
+  5. To access a group folder, click on Shared folder to expand.
+  6. Click on the folder you need to access.
 
-Enter your institutional email address as your username and the sync password you created (not the password for your institutional login) and then click "Next"
+NOTE: If saving or adding documents it can take a few seconds to 30 sec to update the web client. If large volumes of data, it can take a while.
 
-Ensure "Sync Everything" is selected and then click "Connect..." and CloudStor will start synchronising your data.
-
-Click on Cloudstor icon to expand the folders you have access to from the web client.
-
-To access a group folder, click on Shared folder to expand.
-
-Click on the required folder you require access to.
-
-If saving or adding documents it can take a few seconds to 30 sec to update the web client. If large volumes of data, it can take a while.
-
-Cloudstor sync client on your smartphone
+##### Cloudstor sync client on your smartphone
 
 You can find the CloudStor app in the Apple App Store or the Google Play Store by searching "CloudStor" on your device.
 
