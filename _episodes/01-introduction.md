@@ -36,9 +36,25 @@ FIXME
 > 1. Give us a two sentence summary of one of your fellow participants that you met during the icebreaker in the etherpad.
 {: .challenge}
 
-Think, pair, share
 > ## Jargon busting
+> This exercise is an opportunity to begin to ask questions and to get a firmer grasp on the concepts around research data management.
 >
+> In pairs, look at the list of terms here: [link to etherpad]
+>
+>* uplaod/download
+>* data movement
+>* cloud storage
+>* cloud computing
+>* sync
+>* collaborative editing
+>* etherpad
+>* active data
+>* sensitive data
+>* repository
+>* FTP
+
+> Are you familiar with these terms in this context? What are the ones that trip you up? Think of a way to remember what that word or term means in this context that might help others understand it better. How could you define a term (or two!) above to make it easier to understand? Write your definitions down in the etherpad - we can add to this list as we go and keep it as a resource for the future.
+
 {: .challenge}
 
 Direct activity

@@ -29,8 +29,8 @@ Using this guide https://www.ukdataservice.ac.uk/media/440281/formattingorganisi
     * use library data safely and securely (sharing, storing)
     * using cloud storage proficiently including storing, sharing, sending and syncing
 
-    > ## Challenge - Think, pair, share
-    Where is your data now? How do you store, share, sync, protect, back up etc your files? Could this be done differently?
+> ## Challenge - Think, pair, share
+> Where is your data now? How do you store, share, sync, protect and back up your files? Could this be done differently?
 
 ### CloudStor
     1. Go to the AARNet website: https://www.aarnet.edu.au/
@@ -79,4 +79,4 @@ Intro to FTP - anyone know any other services?
 Point to existing resources: https://support.aarnet.edu.au/hc/en-us/sections/115000260773-CloudStor-FileSender
 
 > ## Challenge - direct activity
-Send a file to someone! Receive a file from someone! What’s the maximum file size? Any limits on file type?
+Using FileSender in CloudStor, send a file to someone. Make sure you receive a file back from that same person. What’s the maximum file size? Are there ny limits on file type?
