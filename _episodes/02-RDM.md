@@ -34,10 +34,22 @@ Think, pair, share
 Direct activity
 
 > ## Find your university's RDM policy. Read it for understanding. What questions do you have?
+> OR Read a couple of RDM policies and seek differences. Discuss.
+https://documents.uow.edu.au/about/policy/UOW116802.html
+https://policy.csu.edu.au/view.current.php?id=00328
+> OR What is the difference between a RDM policy and the Australian Code for the Responsible Conduct?
+https://libguides.anu.edu.au/c.php?g=881167&p=6358493
+> OR Find a university RDM Policy - what are the main components?
+
 
 Multiple Choice
 
 > ## Challenge - Who is responsible for research data management?
+
+a. Researchers
+b. Libraries
+c. Faculties
+d. All of the above
 
 Direct activity
 
