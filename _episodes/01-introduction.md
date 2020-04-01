@@ -38,9 +38,13 @@ FIXME
 
 Think, pair, share
 > ## Jargon busting
+>
+{: .challenge}
 
 Direct activity
 > ## Use shared editable document to collate explanations
+>
+{: .challenge}
 
 Multiple Choice
 direct activity

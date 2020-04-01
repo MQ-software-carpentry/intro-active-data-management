@@ -28,19 +28,25 @@ Think, pair, share
 
 > ## Challenge
 > 1. 15 minutes breakout rooms (5 watch, 10 pair) 10 minutes sharing
->    1. Breakout rooms. Watch the video: https://www.youtube.com/watch?v=N2zK3sAtr-4
+>    1. Breakout rooms. Watch [the video](https://www.youtube.com/watch?v=N2zK3sAtr-4)
 >    1.  Discussion: Have you run into any of these scenarios? What happened? How should this have gone? Write your room's conclusions in the etherpad.
 
 Direct activity
 
-> ## Find your university's RDM policy. Read it for understanding. What questions do you have?
+> ## Read a sample RDM policy. Read it for understanding. What questions do you have?
+>
+{: .challenge}
 
 Multiple Choice
 
 > ## Challenge - Who is responsible for research data management?
+>
+{: .challenge}
 
 Direct activity
 
 > ## Challenge - Write down a convincing argument for a team to switch to cloud for collaboration
+>
+{: .challenge}
 
 Synthesis to achieve a goal

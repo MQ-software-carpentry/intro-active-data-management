@@ -13,11 +13,34 @@ keypoints:
 ---
 FIXME
 
+# FAIR and Active Data Management
 
-## FAIR / data publishing:
-    * how to write a read me
-    * sharing datasets on OSF - packaging data
+> ## Optional challenge - add a preregistration on test.osf.io
+>
+{: .challenge}
 
+> ## Challenge - Add data analysis and publishing clauses to your data management plan
+>
+{: .challenge}
+
+
+
+## Metadata
+
+> ## Challenge - Add a readme, file guide, metadata for your data, and license to your folders
+> 
+{: .challenge}
+
+
+
+## Publish your data
+
+> ## Upload your data to test.osf.io
+>
+{: .challenge}
+
+## FAIR links:
+    
 
     https://fair-software.nl
     https://librarycarpentry.org/Top-10-FAIR/ (especially https://librarycarpentry.org/Top-10-FAIR//2018/12/01/research-software/ and  https://librarycarpentry.org/Top-10-FAIR//2019/09/06/astronomy/ )

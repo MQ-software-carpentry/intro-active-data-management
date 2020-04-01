@@ -1,7 +1,7 @@
 ---
 title: "Active Data, Files"
 teaching: 20
-exercises: 50
+exercises: 60
 questions:
 - "How do I manage all my files?"
 objectives:
@@ -49,6 +49,12 @@ FIXME
 
 
 
+# File management in your data management plan?
+
+> ## Challenge: Write a draft governance agreement in a breakout room
+> 
+>
+{: .challenge}
 
 
 # What is Sensitive data:
