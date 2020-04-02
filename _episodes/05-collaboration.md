@@ -44,7 +44,7 @@ keypoints:
 # Collaboration and Citations
 
 > ## Challenge - Establish a group in Zotero
-> 
+>  https://www.zotero.org/
 {: .challenge}
 
 # Thoughts

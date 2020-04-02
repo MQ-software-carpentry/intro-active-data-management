@@ -1,12 +1,12 @@
 ---
 title: "Introduction"
-teaching: 5
-exercises: 10
+teaching: 10
+exercises: 20
 questions:
 - "What are the objectives of this workshop?"
 objectives:
 - "Learn who your fellow students are with an Icebreaker"
-- "Sign into the shared editable document"
+- "Sign into the shared editable document and do some jargon busting"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---

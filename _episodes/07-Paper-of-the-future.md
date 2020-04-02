@@ -13,7 +13,9 @@ keypoints:
 FIXME
 
 
-> ## Challenge: Make Jupyter notebook on swan
+> ## Challenge
+
+> Make Jupyter notebook on swan
 >
 > Create a Jupyter Notebook of your own
 > Upload a notebook from Cloudstor
@@ -33,4 +35,3 @@ FIXME
 * https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/
     * Jupyter notebooks skills (where to find and store, open, use basic code, save and share)
     * working knowledge of Cloudstor and associated services
-
