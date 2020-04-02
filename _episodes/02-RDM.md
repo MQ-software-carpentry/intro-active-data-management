@@ -72,6 +72,8 @@ https://policy.csu.edu.au/view.current.php?id=00328
 https://libguides.anu.edu.au/c.php?g=881167&p=6358493
 > OR Find a university RDM Policy - what are the main components?
 
+http://libguides.library.curtin.edu.au/research-data-management
+
 OK. Let's say that you have suddenly become responsible for an entire team's research data. If anything happens, it's on you. What can you do?
 
 * How to think about research data
