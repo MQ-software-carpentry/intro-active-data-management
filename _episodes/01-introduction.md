@@ -37,10 +37,12 @@ FIXME
 >    1. The third question is up to you. If you are stuck, ptions could include: "What is your favourite colour and why?", "What is the airspeed of an unladen swallow?" or "What is most recent research paper they found interesting?"
 > 1. Write a two sentence summary of one of your fellow participants that you met during the icebreaker in the etherpad.
 
+# Jargon busting
 
-> ## Jargon busting
-> This exercise is an opportunity to begin to ask questions and to get a firmer grasp on the concepts around research data management.
->
+This exercise is an opportunity to begin to ask questions and to get a firmer grasp on the concepts around research data management.
+
+> ## Challenge
+> 
 > In pairs, look at the list of terms here: [link to etherpad]
 >
 >* upload/download
