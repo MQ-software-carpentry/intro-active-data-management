@@ -25,23 +25,25 @@ FIXME
 
 # Objectives
 
+* {BRIAN: Is this objectives of the whole workshop or just this episode?}
+
 # Shared editable document
 
-> ## Ice-breaker:
+> ## Ice-breaker
 >
-> 1. Get to know your fellow participants (either in one group or breakout rooms)
->    1. "What... is your name?"
->    1. "What... is your quest?"
->    1. You need to figure out the third question. Options include: Favourite colour, airspeed of an unladen swallow, most recent research paper they found interesting?
-> 1. Give us a two sentence summary of one of your fellow participants that you met during the icebreaker in the etherpad.
-{: .challenge}
+> 1. Get to know your fellow participants (either in one group or breakout rooms).
+>    1. "What is your name?"
+>    1. "What is your quest?" {BRIAN: I don't understand this question}
+>    1. The third question is up to you. If you are stuck, ptions could include: "What is your favourite colour and why?", "What is the airspeed of an unladen swallow?" or "What is most recent research paper they found interesting?"
+> 1. Write a two sentence summary of one of your fellow participants that you met during the icebreaker in the etherpad.
+
 
 > ## Jargon busting
 > This exercise is an opportunity to begin to ask questions and to get a firmer grasp on the concepts around research data management.
 >
 > In pairs, look at the list of terms here: [link to etherpad]
 >
->* uplaod/download
+>* upload/download
 >* data movement
 >* cloud storage
 >* cloud computing
@@ -54,18 +56,6 @@ FIXME
 >* FTP
 
 > Are you familiar with these terms in this context? What are the ones that trip you up? Think of a way to remember what that word or term means in this context that might help others understand it better. How could you define a term (or two!) above to make it easier to understand? Write your definitions down in the etherpad - we can add to this list as we go and keep it as a resource for the future.
-
-{: .challenge}
-
-Direct activity
-> ## Use shared editable document to collate explanations
->
-{: .challenge}
-
-Multiple Choice
-direct activity
-synthesis to achieve a goal
-
 
 FIXME
 

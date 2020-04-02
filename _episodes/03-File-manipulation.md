@@ -13,15 +13,41 @@ keypoints:
 FIXME
 
 
-## File manipulation:
+## File manipulation
 
 * Organisation:
     * gathering data in one place,
     * creating file directories and naming conventions
     * knowing best practice for data management - manage, describe and store data files
 
-> ## Challenge - direct activity
-Using this guide https://www.ukdataservice.ac.uk/media/440281/formattingorganising.pdf, take a look at the file directory here: https://cloudstor.aarnet.edu.au/plus/s/DvGaUjzWoOe7lTN and organise the files using best practice naming conventions.
+> ## Challenge
+> 1. Open this guide: https://www.ukdataservice.ac.uk/media/440281/formattingorganising.pdf
+>
+>2. Take a look at the file directory here: https://cloudstor.aarnet.edu.au/plus/s/DvGaUjzWoOe7lTN
+>3. Using the guide, rename the folders using best practice naming conventions.
+
+> ## Extra Challenge
+>
+>Did you know you can update file names automatically?
+>
+>**Windows users**
+>
+>Read this set of instructions then reorganise and name the images so that they are easily found and recognised.
+>
+>https://www.howtogeek.com/111859/how-to-batch-rename-files-in-windows-4-ways-to-rename-multiple-files/
+>
+>**Mac users**
+>
+>Read this set of instructions then reorganise and name the images so that they are easily found and recognised.
+>
+>https://www.imore.com/how-rename-multiple-files-once-mac
+>
+>**Linux users**
+>
+>Read this set of instructions then reorganise and name the images so that they are easily found and recognised.
+>
+>https://linuxize.com/post/how-to-rename-files-in-linux/
+
 
 * Working with active data:
     * sync/move data to the cloud, download
