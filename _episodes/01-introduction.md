@@ -42,7 +42,7 @@ FIXME
 This exercise is an opportunity to begin to ask questions and to get a firmer grasp on the concepts around research data management.
 
 > ## Challenge
-> 
+>
 > In pairs, look at the list of terms here: [link to etherpad]
 >
 >* upload/download
