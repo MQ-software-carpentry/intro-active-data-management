@@ -42,7 +42,8 @@ Master copy: Keep at secure location
 Working copy: Keep on a reliable/safe device or locations
 Back up copy: Keep off-site
 
-> ## Challenge - Why have a 3-2-1 plan? What could possibly go wrong? Write your answers in the shared document.
+> ## Challenge - Why have a 3-2-1 plan?
+> What could possibly go wrong? Write your answers in the shared document.
 >
 {: .challenge}
 
@@ -62,6 +63,6 @@ Group: Make, document, and share a backup plan. Use a variety of resources and s
 # Risks, emergencies, and recovery
 
 > ## Challenge - Versioning and restoring files
-> [BRIAN this could be a moment for synthesis - relates to naming conventions and creating sane folder structures - could we use the sample folder in CloudStor for this?] 
+> [BRIAN this could be a moment for synthesis - relates to naming conventions and creating sane folder structures - could we use the sample folder in CloudStor for this?]
 >Think, pair, share
 {: .challenge}
