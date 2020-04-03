@@ -16,11 +16,12 @@ FIXME
     * online data analysis skills?
     * processing many files and processing large files (best practice for both)
 
-> #Challenge: What is the best way to move many files?
+> ## Challenge: What is the best way to move many files?
 > A. One at a time
 > B. Select all then drag and drop
 > C. Zip files into a single folder then move
 > D. Email as attachments
+{: .challenge}
 
 > # Challenge - look up Rocket and WebDAV and explain to the person next to you
 
