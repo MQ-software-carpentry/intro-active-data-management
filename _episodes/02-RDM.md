@@ -44,17 +44,20 @@ Be your own best data manager - the one most likely to benefit (and suffer) is y
 
 Research data is important! Please take care of it.
 
-> ## Challenge
+> ## Challenge - Responsibilities
 >
 >Who is responsible for research data management?
+>
 > 1. Researchers
 > 1. Libraries
 > 1. Faculties
 > 1. All of the above
+>
 > > ## Solution
 > > 
 > > All of the above. Write more here
 > {: .solution}
+>
 {: .challenge}
 
 Universities around the world have developed a range of policies and procedures outlining their expectations around research data management. Let's have a look at some university's RDM statements.
