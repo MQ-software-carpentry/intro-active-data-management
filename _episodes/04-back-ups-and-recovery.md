@@ -3,14 +3,14 @@ title: "Back-ups and recovery"
 teaching: 15
 exercises: 60
 questions:
-- "Why are backups important?"
+- "Why are automated backups important?"
 - "How do I make a backup plan?"
-- "What do I do before a data emergency?"
 objectives:
 - "Learn who to ask for help"
 - "Know what the back up systems are"
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Automated backups can reduce the time and money costs of things going badly."
+- "A backup plan should be in response to your data's sensitivity and difficulty of collection. It should address risks and mitigations of those risks. It should cost less than being hit by the thing you are defending against. "
 ---
 
 

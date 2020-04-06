@@ -1,7 +1,7 @@
 ---
 title: "Active Data, Files"
-teaching: 20
-exercises: 50
+teaching: 30
+exercises: 40
 questions:
 - "How do I manage all my files?"
 objectives:
@@ -10,8 +10,6 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
-
 
 # File manipulation
 
@@ -20,14 +18,14 @@ FIXME
     * creating file directories and naming conventions
     * knowing best practice for data management - manage, describe and store data files
 
-> ## Challenge - Organising a directory
+> ## Challenge - Organising a directory (15 minutes)
 > 
 > 1. Open the [uk data service guide](https://www.ukdataservice.ac.uk/media/440281/formattingorganising.pdf)
 > 2. Take a look at the [sample file directory on cloudstor](https://cloudstor.aarnet.edu.au/plus/s/DvGaUjzWoOe7lTN)
 > 3. Using the guide, rename the folders using best practice naming conventions.
 {: .challenge}
 
-> ## Extra Challenge
+> ## Extra Challenge (for a break)
 >
 > Did you know you can update file names automatically?
 >
@@ -52,8 +50,11 @@ FIXME
     * use library data safely and securely (sharing, storing)
     * using cloud storage proficiently including storing, sharing, sending and syncing
 
-> ## Challenge - Think, pair, share
+> ## Challenge - Think, pair, share (15 minutes)
+>
+> {FIXME Sara: Can we move this to the start? I'd like them to start with sketching to a dmp?}
 > Where is your data now? How do you store, share, sync, protect and back up your files? Could this be done differently?
+{: .challenge}
 
 # CloudStor
     1. Go to the AARNet website: https://www.aarnet.edu.au/
@@ -98,7 +99,7 @@ You can find the CloudStor app in the Apple App Store or the Google Play Store b
 
 
 
-> ## Challenge - Send yourself a file
+> ## Challenge - Send yourself a file (10 minutes)
 >
 > * [Learn about filesender](https://support.aarnet.edu.au/hc/en-us/sections/115000260773-CloudStor-FileSender)
 >ye
