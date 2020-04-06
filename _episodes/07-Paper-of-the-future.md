@@ -12,23 +12,31 @@ keypoints:
 ---
 FIXME
 
+# Reproducibility
 
-> ## Challenge
+Jupyter Notebooks
 
-> Make Jupyter notebook on swan
->
+SWAN
+
+Sharing Notebooks with GitHub (what is GitHub?)
+https://reproducible-science-curriculum.github.io/sharing-RR-Jupyter/01-sharing-github/
+
+> ## Challenge - Jupyter Notebooks
+
+> Open a Jupyter notebook on SWAN.
 > Create a Jupyter Notebook of your own
 > Upload a notebook from Cloudstor
 > Upload a notebook from GitHub
 > Share a notebook with a colleague
 {: .challenge}
 
+
 > ## Challenge: Add narrative markdown
 >
 {: .challenge}
 
 > ## Upload Jupyter notebook to osf and render in mybinder.
->
+>  https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007007
 {: .challenge}
 
 ## Paper of the future:

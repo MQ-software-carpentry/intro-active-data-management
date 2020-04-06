@@ -16,6 +16,7 @@ keypoints:
 
 # Getting and sending (sensitive) data
 
+ [BRIAN: This is where we ask people to use FileSender with a sensitive data hat on, isn't it?]
 > ## Challenge - As a breakout room, securely send files around
 >
 > Share a dataset from a group drive in Cloudstor via Cloudstor token (link), inviting someone to the document and via FileSender
@@ -24,7 +25,7 @@ keypoints:
 # Live Collaboration
 
 > ## Challenge - Collaborate in onlyoffice
-> Upload a journal template and do stuff.
+> Upload a journal template [BRIAN: Need an example of a journal template here] and do stuff [This is vague - maybe we need to add 'Create a Chapter Heading, add a paragraph and then use the commenting feature to add comments'].
 > challenge: Open OnlyOffice, create a document and share with another person so they can collaborative
 {: .challenge}
 

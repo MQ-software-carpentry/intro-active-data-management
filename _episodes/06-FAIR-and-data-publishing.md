@@ -28,7 +28,7 @@ FIXME
 ## Metadata
 
 > ## Challenge - Add a readme, file guide, metadata for your data, and license to your folders
-> 
+>
 {: .challenge}
 
 
@@ -40,7 +40,7 @@ FIXME
 {: .challenge}
 
 ## FAIR links:
-    
+
 
     https://fair-software.nl
     https://librarycarpentry.org/Top-10-FAIR/ (especially https://librarycarpentry.org/Top-10-FAIR//2018/12/01/research-software/ and  https://librarycarpentry.org/Top-10-FAIR//2019/09/06/astronomy/ )
