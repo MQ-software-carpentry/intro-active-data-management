@@ -22,19 +22,32 @@ keypoints:
 
 # Research Data
 
-What examples can you think of?
+What is research data? What examples can you think of?
+
+Some reading here: https://ardc.edu.au/wp-content/uploads/2020/01/What-is-research-data.pdf
 
 # Research Data lifecycle
 
-![Research Data Lifecycle](https://github.com/MQ-software-carpentry/intro-active-data-management/images/scenario_1_v4.png "scenario_1_v4")
+Research data lifecycle diagrams give an overview of the stages and processes required for the successful management of data. By showing the different phases a dataset goes through, the data lifecycle concept describes each action as a research project moves from begin an idea to making discoveries and then sharing those discoveries.
+
+This is an example of a research data lifecycle diagram. Is there something surprising in there for you? Or something missing? Where are you at in this cycle right now?
+
+![Research Data Lifecycle](https://github.com/MQ-software-carpentry/intro-active-data-management/blob/gh-pages/images/Research_Data_Lifecycle.jpg)
+
+Image credit:
+[UC Santa Cruz University Library](https://guides.library.ucsc.edu/datamanagement)
 
 # Research Data Management (aka RDM)
 
+Research data management includes a range of activities, all related to how to maintain sound practices around research data collection, organisation and sharing.
+
+More info here: https://staff.mq.edu.au/research/strategy-priorities-and-initiatives/data-science-and-eresearch/research-data-toolkit
+
 ## What could possibly go wrong? Why RDM?
 
-Start with a chat about the kinds of things that happen when researchers wing it.
+We've all no doubt heard of some data disasters by now - people losing data in different ways, data being shared inappropriately.
 
-Be your own best data manager - the one most likely to benefit (and suffer) is you!
+Let's tart with a chat about the kinds of things that happen when researchers wing it.
 
 > ## Challenge - A video on data sharing (30 minutes)
 >
@@ -42,6 +55,8 @@ Be your own best data manager - the one most likely to benefit (and suffer) is y
 > 1. Discuss: Have you run into any of these scenarios? What happened? How should this have gone? Write your room's conclusions in the etherpad.
 > 1. Share: When we get back together, each room should share some of its worst horror stories (with the names changed to protect the innocent).
 {: .challenge}
+
+ But rather than being motivated by fear, there are lots of good reasons to be your own best data manager - the one most likely to benefit (and suffer) is you!
 
 # Data Management Policies and Plans
 
@@ -51,18 +66,22 @@ Research data is important! Please take care of it.
 
 > ## Challenge - Responsibilities (5 minutes)
 >
-> {FIXME Sara, this isn't a diagnostic question. Can we make it instead be a question which can identify if anyone doesn't understand RDM? https://carpentries.github.io/instructor-training/02-practice-learning/index.html#formative-assessments-come-in-many-forms}
+> {FIXME BRIAN how does this one sound?}
 >
->Who is responsible for research data management? Put a +1 in the shared document next to which one you think is right!
+>Which of these does NOT count as research data? Put a +1 in the shared document next to which one you think is right!
 >
-> 1. Researchers
-> 1. Libraries
-> 1. Faculties
-> 1. All of the above
+> 1. A database
+> 1. A research publication
+> 1. Field notes
+> 1. Audio and video tapes
 >
 > > ## Solution
 > >
-> > All of the above. Write more here
+> > A research publication. These are taken care of by
+publishers. Even when held within
+an institution, either on open access or for
+research reporting purposes, these tend to be
+managed separately from other research data.
 > {: .solution}
 >
 {: .challenge}
@@ -71,15 +90,11 @@ Universities around the world have developed a range of policies and procedures 
 
 Practice makes perfect. :smile:
 
- * Expectations of a data management plan
-    * capacity to answer HDR and ECR questions and turn needs into specific actions
-    * clear understanding of research data management landscape
-
 > ## Challenge - RDM Policy (30 minutes)
 >
 > Read a two of RDM policies and seek differences. Discuss in breakout rooms.
-> [UOW](https://documents.uow.edu.au/about/policy/UOW116802.html) versus [CSU](https://policy.csu.edu.au/view.current.php?id=00328)
-> {FIXME: Sara, why these two universities? Can we think about perhaps pointinug at guidelines} Maybe https://documents.uow.edu.au/content/groups/public/@web/@gov/documents/doc/uow228264.pdf versus https://research.csu.edu.au/research-support/data-methods-and-tools/data-management ? The two guidelines do change meaningfully between publishing...
+> [UOW](https://documents.uow.edu.au/content/groups/public/@web/@gov/documents/doc/uow228264.pdf) versus [CSU](https://research.csu.edu.au/research-support/data-methods-and-tools/data-management)
+> {FIXME: BRIAN: Does this work? ^^)
 >
 > 1. What backup requirements do each of these have?
 > 1. What data publishing requirements do they have?
@@ -88,13 +103,7 @@ Practice makes perfect. :smile:
 > Write your answers in the shared document as a team.
 {: .challenge}
 
-
-
 OK. Let's say that you have suddenly become responsible for an entire team's research data. If anything happens, it's on you. What can you do?
-
-* How to think about research data
-   * communicate with influence the value of active data management best practice
-   * understanding the requirement for data management
 
 > ## Challenge - Arguments for Collaboration (15 minutes)
 >
