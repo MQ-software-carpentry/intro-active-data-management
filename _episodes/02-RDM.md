@@ -24,6 +24,10 @@ keypoints:
 
 What examples can you think of?
 
+# Research Data lifecycle
+
+![Research Data Lifecycle](https://github.com/MQ-software-carpentry/intro-active-data-management/images/scenario_1_v4.png "scenario_1_v4")
+
 # Research Data Management (aka RDM)
 
 ## What could possibly go wrong? Why RDM?
@@ -57,7 +61,7 @@ Research data is important! Please take care of it.
 > 1. All of the above
 >
 > > ## Solution
-> > 
+> >
 > > All of the above. Write more here
 > {: .solution}
 >
@@ -75,7 +79,7 @@ Practice makes perfect. :smile:
 >
 > Read a two of RDM policies and seek differences. Discuss in breakout rooms.
 > [UOW](https://documents.uow.edu.au/about/policy/UOW116802.html) versus [CSU](https://policy.csu.edu.au/view.current.php?id=00328)
-> {FIXME: Sara, why these two universities? Can we think about perhaps pointinug at guidelines} Maybe https://documents.uow.edu.au/content/groups/public/@web/@gov/documents/doc/uow228264.pdf versus https://research.csu.edu.au/research-support/data-methods-and-tools/data-management ? The two guidelines do change meaningfully between publishing... 
+> {FIXME: Sara, why these two universities? Can we think about perhaps pointinug at guidelines} Maybe https://documents.uow.edu.au/content/groups/public/@web/@gov/documents/doc/uow228264.pdf versus https://research.csu.edu.au/research-support/data-methods-and-tools/data-management ? The two guidelines do change meaningfully between publishing...
 >
 > 1. What backup requirements do each of these have?
 > 1. What data publishing requirements do they have?
@@ -94,7 +98,7 @@ OK. Let's say that you have suddenly become responsible for an entire team's res
 
 > ## Challenge - Arguments for Collaboration (15 minutes)
 >
-> In the shared document, in breakout rooms, make a single paragraph argument for a team to switch to cloud for collaboration. 
+> In the shared document, in breakout rooms, make a single paragraph argument for a team to switch to cloud for collaboration.
 >
 > As everyone: discuss which paragraphs are most persuasive?
 >
