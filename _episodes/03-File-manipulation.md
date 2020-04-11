@@ -1,6 +1,6 @@
 ---
 title: "Active Data, Files"
-teaching: 15
+teaching: 10
 exercises: 40
 questions:
 - "What do I need to consider when working with active research data?"
@@ -9,7 +9,11 @@ objectives:
 - "Understand safe and secure ways of sharing and storing data"
 - "Learn how to organise, maintain and store your active data"
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "There must be one and only one copy of the "authoritative" version of a file."
+- "Everyone must be able to access that version at all times."
+- "A history must be available so that older versions are accessible at need."
+- "Files must be consistently named, without spaces."
+- "Think about where you keep your research and how you share it."
 ---
 
 # Working with active research data
@@ -25,6 +29,15 @@ A little bit of effort now will pay off tenfold in the future.
 > Where is your data now? How do you store, share, sync, protect and back up your files? Could this be done differently?
 >
 {: .challenge}
+
+
+> ## Important considerations
+> Whatever system you choose:
+>
+> 1. There must be one and only one copy of the "authoritative" version of a file.
+> 1. Everyone must be able to access that version at all times.
+> 1. A history must be available so that older versions are accessible at need.
+{: .callout}
 
 # CloudStor
 
@@ -71,9 +84,10 @@ Take a look at your file organisation. How can you do this better?
 
 Let's now look at the benefits and best practices of gathering your data in one place, using planned folder  structures(also known as 'directories') and naming conventions for your files.
 
-![alt text](https://github.com/MQ-software-carpentry/intro-active-data-management/blob/gh-pages/images/scenario_1_v4.png "File naming strategies")
+![File Naming Strategies](/intro-active-data-management/images/scenario_1_v4.png "File naming strategies")
 
 Image credit: [Clare Trowell](https://www.data.cam.ac.uk/intro-data-champions/data-champions-cartoons)
+
 > ## Challenge - Organising a directory (15 minutes)
 >
 > 1. Open the [Cambridge Organising your Data Guide](https://www.data.cam.ac.uk/data-management-guide/organising-your-data)

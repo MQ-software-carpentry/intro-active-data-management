@@ -32,17 +32,19 @@ keypoints:
 # What is a Backup?
 
 
-## The 3-2-1 Rule
+> ## The 3-2-1 Rule
+>
+> When storing data, follow the 3-2-1 rule:
+>
+> Keep *3* copies of your files in *2* different locations, with *1* copy in a location in another geographic area
+>
+> Master copy: Keep at secure location
+>
+> Working copy: Keep on a reliable/safe device or locations
+>
+> Back up copy: Keep off-site
+{: .callout}
 
-When storing data, follow the 3-2-1 rule:
-
-Keep *3* copies of your files in *2* different locations, with *1* copy in a location in another geographic area
-
-Master copy: Keep at secure location
-
-Working copy: Keep on a reliable/safe device or locations
-
-Back up copy: Keep off-site
 
 > ## Challenge - Why have a 3-2-1 plan?
 > What could possibly go wrong? Write your answers in the shared document.>
