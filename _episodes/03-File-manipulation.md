@@ -1,17 +1,18 @@
 ---
 title: "Active Data, Files"
-teaching: 30
+teaching: 15
 exercises: 40
 questions:
-- "How do I manage all my files?"
+- "What do I need to consider when working with active research data?"
+- "What are some ways of organising files and directories that will make it easier to collaborate with others?"
 objectives:
-- "Learn how to organise, maintain and store your active data"
 - "Understand safe and secure ways of sharing and storing data"
+- "Learn how to organise, maintain and store your active data"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
-* Working with active research data
+# Working with active research data
 
 There are lots of simple ways you can manage your active data so that it is easy to find and safely stored.
 
@@ -35,40 +36,26 @@ A little bit of effort now will pay off tenfold in the future.
 
 You are now in CloudStor, which is a cloud storage environment.
 
-## Syncing data
+## Data and Cloudstor
+
+### Continously Syncing
 
 Using the ownCloud Sync Client you can keep your computer and your CloudStor folders up to date automatically.
 
-## Sync Password
+Here is the [CloudStor Getting Started Guide](https://support.aarnet.edu.au/hc/en-us/articles/227469547-CloudStor-Getting-Started-Guide).
 
-If you wish to use the optional sync clients from ownCloud, you will be required to set a separate ownCloud sync password. This password can be set from the "Settings" page.
+### Pushing and Pulling
 
-Note: This password is only for use with the sync clients and is not used to login to CloudStor.
+Here, we can take advantage of Cloudstor's versions. Groups can intentionally upload data when they want to preserve it or share it at that point in time, and other collaborators can download that data. With this, we can then see old versions, if needed.
 
-## Download the Desktop Sync Client
-
-You can download the Cloudstor sync client for Windows, OSX, IOS, Linux and Android [here](https://cloudstor.aarnet.edu.au/client-download/).
-
-Follow the instructions to install the client.
-
-## Configuring the ownCloud Desktop Sync Client
-
-  1. Install and open the ownCloud Desktop Sync Client. You will be prompted for the server address, enter https://cloudstor.aarnet.edu.au/plus and click "Next"
-  2. Enter your institutional email address as your username and the sync password you created (not the password for your institutional login) and then click "Next".
-  3. Ensure "Sync Everything" is selected and then click "Connect..." and CloudStor will start synchronising your data.
-  4. Click on Cloudstor icon to expand the folders you have access to from the web client.
-  5. To access a group folder, click on Shared folder to expand.
-  6. Click on the folder you need to access.
-
-NOTE: If saving or adding documents it can take a few seconds to 30 sec to update the web client. If large volumes of data, it can take a while.
-
-## Cloudstor sync client on your smartphone
-
-You can find the CloudStor app in the Apple App Store or the Google Play Store by searching "CloudStor" on your device.
+> ## Versioning Demo
+>
+> Here, your instructors will demonstrate uploading and downloading data and retrieving old versions.
+{: .callout}
 
 ## FileSender
 
-FileSender is a way to send many and large files to your colleagues that can be encrypted so it is a secure transfer.
+FileSender is a way to send many and large files to your colleagues and external collaborators that can be encrypted so it is a secure transfer.
 
 > ## Challenge - Send yourself a file (10 minutes)
 >
@@ -80,18 +67,20 @@ FileSender is a way to send many and large files to your colleagues that can be 
 
 # File manipulation
 
-Once you have your sync, share and store processes in place, take a look at your file organisation. How can you do this better?
+Take a look at your file organisation. How can you do this better?
 
 Let's now look at the benefits and best practices of gathering your data in one place, using planned folder  structures(also known as 'directories') and naming conventions for your files.
 
 > ## Challenge - Organising a directory (15 minutes)
 >
-> 1. Open the [uk data service guide](https://www.ukdataservice.ac.uk/media/440281/formattingorganising.pdf)
+> 1. Open the [Cambridge Organising your Data Guide](https://www.data.cam.ac.uk/data-management-guide/organising-your-data)
 > 2. Take a look at the [sample file directory on cloudstor](https://cloudstor.aarnet.edu.au/plus/s/DvGaUjzWoOe7lTN)
-> 3. Using the guide, rename the folders using best practice naming conventions.
+> 3. Download that directory: Click on the <kbd>...</kbd> icon, and choose download. Unzip the folder on your computer.
+> 4. Using the guide, rename the folders using best practice naming conventions.
+> 5. Upload the folder onto cloudstor. Drag and drop the folder onto the white space at the top of the window next to the plus button.
 {: .challenge}
 
-> ## Extra Challenge (for a break)
+> ## Optional Challenge
 >
 > Did you know you can update file names automatically?
 >
@@ -107,4 +96,37 @@ Let's now look at the benefits and best practices of gathering your data in one 
 >
 >Read [this set of instructions](https://linuxize.com/post/how-to-rename-files-in-linux/) then reorganise and name the images so that they are easily found and recognised.
 >
+{: .challenge}
+
+
+> ## Optional Challenge
+>
+> Set up the CloudStor sync client.
+>
+> ## Syncing data
+>
+> Using the ownCloud Sync Client you can keep your computer and your CloudStor folders up to date automatically.
+>
+> ## Sync Password
+>
+If you wish to use the optional sync clients from ownCloud, you will be required to set a separate ownCloud sync password. This password can be set from the > "Settings" page.
+>
+> Note: This password is only for use with the sync clients and is not used to login to CloudStor.
+>
+> ## Download the Desktop Sync Client
+>
+> You can download the Cloudstor sync client for Windows, OSX, IOS, Linux and Android [here](https://cloudstor.aarnet.edu.au/client-download/).
+>
+> Follow the instructions to install the client.
+>
+> ## Configuring the ownCloud Desktop Sync Client
+>
+>  1. Install and open the ownCloud Desktop Sync Client. You will be prompted for the server address, enter https://cloudstor.aarnet.edu.au/plus and click > "Next"
+>  2. Enter your institutional email address as your username and the sync password you created (not the password for your institutional login) and then click > "Next".
+>   3. Ensure "Sync Everything" is selected and then click "Connect..." and CloudStor will start synchronising your data.
+>   4. Click on Cloudstor icon to expand the folders you have access to from the web client.
+>   5. To access a group folder, click on Shared folder to expand.
+>   6. Click on the folder you need to access.
+>
+> NOTE: If saving or adding documents it can take a few seconds to 30 sec to update the web client. If large volumes of data, it can take a while.
 {: .challenge}
