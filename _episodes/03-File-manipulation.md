@@ -84,6 +84,9 @@ Once you have your sync, share and store processes in place, take a look at your
 
 Let's now look at the benefits and best practices of gathering your data in one place, using planned folder  structures(also known as 'directories') and naming conventions for your files.
 
+![alt text](https://github.com/MQ-software-carpentry/intro-active-data-management/blob/gh-pages/images/scenario_1_v4.png "File naming strategies")
+
+Image credit: [Clare Trowell](https://www.data.cam.ac.uk/intro-data-champions/data-champions-cartoons)
 > ## Challenge - Organising a directory (15 minutes)
 >
 > 1. Open the [uk data service guide](https://www.ukdataservice.ac.uk/media/440281/formattingorganising.pdf)
