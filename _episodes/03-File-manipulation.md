@@ -71,6 +71,9 @@ Take a look at your file organisation. How can you do this better?
 
 Let's now look at the benefits and best practices of gathering your data in one place, using planned folder  structures(also known as 'directories') and naming conventions for your files.
 
+![alt text](https://github.com/MQ-software-carpentry/intro-active-data-management/blob/gh-pages/images/scenario_1_v4.png "File naming strategies")
+
+Image credit: [Clare Trowell](https://www.data.cam.ac.uk/intro-data-champions/data-champions-cartoons)
 > ## Challenge - Organising a directory (15 minutes)
 >
 > 1. Open the [Cambridge Organising your Data Guide](https://www.data.cam.ac.uk/data-management-guide/organising-your-data)
