@@ -18,15 +18,16 @@ keypoints:
 
 Using FileSender with a sensitive data hat on.
 
-> ## Challenge - As a breakout room, securely send files around
+> ## Challenge - As a breakout room, securely send files around (10 minutes)
 >
 > Share a dataset from a group drive in Cloudstor via Cloudstor token (link), inviting someone to the document and via FileSender
 {: .challenge}
 
 # Live Collaboration
 
-> ## Challenge - Collaborate in onlyoffice
-> Upload a journal template [BRIAN: Need an example of a journal template here] and do stuff [This is vague - maybe we need to add 'Create a Chapter Heading, add a paragraph and then use the commenting feature to add comments'].
+> ## Challenge - Collaborate (choose 2) in onlyoffice, overleaf, google docs, or office 365 (30 minutes)
+>
+>
 > challenge: Open OnlyOffice, create a document and share with another person so they can collaborative
 {: .challenge}
 
