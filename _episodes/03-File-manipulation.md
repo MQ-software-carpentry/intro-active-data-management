@@ -1,5 +1,5 @@
 ---
-title: "Active Data, Files"
+title: "Active Data and Files"
 teaching: 10
 exercises: 40
 questions:
@@ -9,7 +9,7 @@ objectives:
 - "Understand safe and secure ways of sharing and storing data"
 - "Learn how to organise, maintain and store your active data"
 keypoints:
-- "There must be one and only one copy of the "authoritative" version of a file."
+- "There must be one and only one copy of the ''authoritative' version of a file."
 - "Everyone must be able to access that version at all times."
 - "A history must be available so that older versions are accessible at need."
 - "Files must be consistently named, without spaces."

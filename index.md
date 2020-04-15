@@ -23,16 +23,12 @@ They are told to manage their active research data, and expected to get on with 
 
 This workshop is suitable for anyone needing to manage research data for internal teams or with external collaborators.
 
-## What does it include?
-
-FIXME 
 
 # Prerequisites
 
 > ## Tools you need
 >
 > * A laptop able to connect to the internet.
-> * Download TODO data file
 > * The ability to access [cloudstor](https://cloudstor.aarnet.edu.au/plus/index.php), or your local owncloud instance.
 {: .prereq}
 
