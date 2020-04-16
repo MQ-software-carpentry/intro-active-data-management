@@ -37,25 +37,28 @@ https://help.osf.io/hc/en-us/articles/360024207633-Sharing-Research-Outputs
 https://osf.io/prereg/
 
 > ## Optional challenge - add a preregistration on test.osf.io
->
+> Take a look at sample preregistrations: https://osf.io/e6auq/wiki/Example%20Preregistrations/?view
+> Try to make a preregistration, pretending you are one of those projects: https://help.osf.io/hc/en-us/articles/360019738834-Create-a-Preregistration
 {: .challenge}
 
-> ## Challenge - Add data analysis and publishing clauses to your data management plan
->
-{: .challenge}
 
 ## Metadata
 
-> ## Challenge - Add a readme, file guide, metadata for your data, and license to your folders
+> ## Challenge - Add a readme, and metadata for your data, and license to your folders
 >
+> [Readme HOWTO](https://data.research.cornell.edu/content/readme)
+> [License chooser](https://www.enago.com/academy/smart-data-sharing-which-license-should-you-choose/)
+>
+> Write a small readme and choose a license for a dataset you have.
 {: .challenge}
 
 
 
 ## Publish your data
 
-> ## Upload your data to test.osf.io
+> ## Upload test data to test.osf.io
 >
+> https://journals.sagepub.com/doi/full/10.1177/2515245918757689
 {: .challenge}
 
 ## FAIR links:

@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
-teaching: 10
-exercises: 20
+teaching: 30
+exercises: 30
 questions:
 - "What are the objectives of this workshop?"
 objectives:
@@ -40,17 +40,17 @@ Everyone: Put up a big happy green check!
 
 * Research Data Management
 * File Manipulation
-* Backups
 
 ## Part 2
 
+* Backups
 * Collaboration
 * FAIR and the paper of the future!
 
 
 # Shared editable document
 
-> ## Ice-breaker (10 minutes)
+> ## Ice-breaker (10 minutes / 5 minutes discussion)
 >
 > 1. Get to know your fellow participants (in breakout rooms).
 >    1. "What ... is your name?"
@@ -62,7 +62,7 @@ Everyone: Put up a big happy green check!
 
 This exercise is an opportunity to begin to ask questions and to get a firmer grasp on the concepts around research data management.
 
-> ## Challenge - Jargon‽ (10 minutes)
+> ## Challenge - Jargon‽ (10 minutes / 5 minutes discussion)
 >
 > In pairs, look at the list of terms on the shared document.
 >
