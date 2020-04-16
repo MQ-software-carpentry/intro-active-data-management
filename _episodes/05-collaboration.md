@@ -57,3 +57,4 @@ As academics we will collaborate on at least two of the following things:
 > * (Collaborative editing, typesetting, citations) [Overleaft](https://www.overleaf.com/learn/latex/Tutorials) and [Zotero](https://unimelb.libguides.com/c.php?g=565734&p=3897111)
 > * (Rmarkdown, paper, code, citations, version control) [R markdown](https://ourcodingclub.github.io/tutorials/rmarkdown/), Zotero, [citations from zotero in R](https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html)
 > * (Collaborative editing) Word 365 and zotero on your system
+{: .challenge}
