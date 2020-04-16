@@ -81,6 +81,7 @@ This exercise is an opportunity to begin to ask questions and to get a firmer gr
 > * repository
 > * GitHub
 > * computational notebooks/Jupyter Notebooks
+>
 > Are you familiar with these terms in this context? What are the ones that trip you up? Think of a way to remember what that word or term means in this context that might help others understand it better. How could you define a term (or two!) above to make it easier to understand? Write your definitions down in the etherpad - we can add to this list as we go and keep it as a resource for the future.
 {: .challenge}
 
